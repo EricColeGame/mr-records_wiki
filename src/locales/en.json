@@ -9,7 +9,13 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "features": "Features",
+    "characters": "Characters",
+    "platforms": "Platforms",
+    "release": "Release"
   },
   "home": {
     "meta": {
@@ -449,7 +455,30 @@
       "secondary": "Play the Demo on Steam"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "MR. RECORDS Beginner Guides",
+    "overviewDescription": "Start strong with MR. RECORDS beginner guides covering the opening hours, record shop basics, rhythm stages, walkthroughs, and tips for your first sessions."
+  },
+  "mechanics": {
+    "overviewTitle": "MR. RECORDS Game Mechanics",
+    "overviewDescription": "Learn how MR. RECORDS works, from rhythm battles and record shop management to vinyl collecting, the imagination system, and music-driven gameplay."
+  },
+  "features": {
+    "overviewTitle": "MR. RECORDS Features & Trailers",
+    "overviewDescription": "Explore MR. RECORDS demos, gameplay reveals, announcement trailers, and Day of the Devs showcases in one place."
+  },
+  "characters": {
+    "overviewTitle": "MR. RECORDS Characters",
+    "overviewDescription": "Meet the MR. RECORDS cast, including George, his dog, Sausage Blues, and the personalities who bring the record shop to life."
+  },
+  "platforms": {
+    "overviewTitle": "MR. RECORDS Platforms",
+    "overviewDescription": "Find out where to play MR. RECORDS across PC, PS5, Xbox, Nintendo Switch, Switch 2, and Steam Deck."
+  },
+  "release": {
+    "overviewTitle": "MR. RECORDS Release & Versions",
+    "overviewDescription": "Track MR. RECORDS release dates, store pages, and version details for Steam, GOG, PS5, and Nintendo Switch."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -480,10 +509,10 @@
     "officialYoutube": "Official YouTube",
     "vvBuilder": "Official Website",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
     "privacyPolicy": "Privacy Policy",
-    "termsOfService": "Terms of Service"
+    "termsOfService": "Terms of Service",
+    "mechanicsGuide": "Mechanics",
+    "charactersGuide": "Characters",
+    "platformsGuide": "Platforms"
   }
 }
