@@ -19,18 +19,18 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "M8DvcwoFRrk", // Roblox My Seafood Stand codes & gameplay video
+  name: "MR. RECORDS Wiki",
+  shortName: "MR. RECORDS",
+  logoText: "MR",
+  tagline: "Levels, Music & Rhythm Guide",
+  description: "Discover MR. RECORDS guides, levels, music, record shop tips, gameplay mechanics, characters, platforms, release updates, and everything you need to know.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://mr-records.wiki",
+  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://mr-records.wiki").hostname.replace(/^www\./, "")}`,
+  gameUrl: "https://store.steampowered.com/app/3053470/MR_RECORDS/",
+  heroVideoId: "4fVut9TBncY", // MR. RECORDS | Meet George official trailer
   social: {
-    discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
+    discord: "https://discord.gg/DwTqJRqcJD",
+    youtube: "https://www.youtube.com/c/WiredP",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
