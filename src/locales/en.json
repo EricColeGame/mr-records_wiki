@@ -43,22 +43,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the core loop of MR. RECORDS: open the record shop by day, read what each customer is looking for, and step into your first rhythm adventure by night."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "How to Play",
+          "description": "See how the shop and the stage connect, from serving customers and recommending records to running, jumping, and sliding in time with the music."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Records & Collecting",
+          "description": "Understand how records unlock new rhythm journeys, what each pressing adds to the collection, and how selling the right copy keeps the shop growing."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in MR. RECORDS."
+          "title": "Demo Guide",
+          "description": "Find out what the free Steam demo of MR. RECORDS includes, how long it takes to finish, and which systems carry over to the full release."
         }
       ]
     },
@@ -66,237 +66,351 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Rhythm Mechanics",
+        "Record Shop",
+        "Release Date"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Everything you need for your first day behind the counter and your first rhythm stage.",
+          "href": "/guide/mr-records-beginner-guide"
+        },
+        {
+          "badge": "Popular",
+          "title": "Gameplay Guide",
+          "description": "The full shop-by-day, rhythm-by-night loop explained step by step.",
+          "href": "/guide/mr-records-gameplay-guide"
+        },
+        {
+          "badge": "Popular",
+          "title": "Record Shop Guide",
+          "description": "How to run George's shop, serve regulars, and keep the crates stocked.",
+          "href": "/mechanics/mr-records-record-shop"
+        },
+        {
+          "badge": "New",
+          "title": "Rhythm Game Mechanics",
+          "description": "Timing windows, note types, combos, and calibration explained.",
+          "href": "/mechanics/mr-records-rhythm-game"
+        },
+        {
+          "badge": "New",
+          "title": "Meet George",
+          "description": "The shop owner whose dream and memories drive the whole story.",
+          "href": "/characters/mr-records-george"
+        },
+        {
+          "badge": "Popular",
+          "title": "Buzz the Dog",
+          "description": "George's loyal companion and the heart of the record shop.",
+          "href": "/characters/mr-records-dog"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
-        },
-        {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
-        },
-        {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "title": "Demo Guide",
+          "description": "What the free Steam demo includes and how it previews the full game.",
+          "href": "/guide/mr-records-demo-guide"
         },
         {
           "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "title": "Release Date & Platforms",
+          "description": "Confirmed platforms, release status, and everything announced so far.",
+          "href": "/release/mr-records-release-date"
         },
         {
           "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "PC Version Guide",
+          "description": "Steam, Epic Games Store, and Steam Deck details for PC players.",
+          "href": "/platforms/mr-records-pc"
         }
       ]
     },
     "aboutGame": {
       "title": "What is MR. RECORDS?",
       "paragraphs": [
-        "MR. RECORDS is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "MR. RECORDS is a rhythm adventure and record shop management game from developer Glee-Cheese Studio and publisher Wired Productions. You play as George, who runs a record shop by day and steps into surreal, music-driven platforming stages by night, where every record you sell or collect opens the door to another memory.",
+        "The game pairs cozy shopkeeping with rhythm-based running, jumping, sliding, and dodging across more than 40 handcrafted levels. Alongside George is his dog Buzz and a cast of regular customers whose stories, photographs, and notes unfold as you build the collection, with an original soundtrack tying the shop and the stage together."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Glee-Cheese Studio"
         },
         {
-          "label": "Platform",
-          "value": "Roblox"
+          "label": "Publisher",
+          "value": "Wired Productions"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Rhythm Adventure"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Levels",
+          "value": "40+"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Languages",
+          "value": "11"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Demo Score",
+          "value": "87.75%"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Platforms",
+          "value": "4"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore MR. RECORDS Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Every MR. RECORDS system in one place, from your first day behind the counter to the rhythm stages, records, characters, story, demo, and platforms.",
       "modules": [
         {
           "order": 1,
-          "name": "MR. RECORDS Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/mr-records-codes",
-          "displayType": "code-box",
+          "name": "MR. RECORDS Beginner Guide",
+          "description": "Explain the core gameplay loop for new players, including running the record shop, learning customer preferences, unlocking records, and entering rhythm journeys. This module should provide a clear starting path without relying on advanced progression knowledge.",
+          "href": "/guide/mr-records-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Open the shop and greet your first customers at the counter."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Read each request and recommend a record that fits the mood."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Drop the needle on a record to start a rhythm journey."
+            },
+            {
+              "label": "4",
+              "detail": "Run, jump, and slide in time with the music to clear the stage."
+            },
+            {
+              "label": "5",
+              "detail": "Collect the memories, photos, and notes each stage unlocks."
+            },
+            {
+              "label": "6",
+              "detail": "Reinvest your earnings and repeat the loop with new records."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/mr-records-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "MR. RECORDS Gameplay Guide",
+          "description": "Cover the two main sides of MR. RECORDS: managing the record shop during the day and completing music-driven platforming stages at night. Include movement, rhythm-based actions, customer interactions, record recommendations, and progression.",
+          "href": "/guide/mr-records-gameplay-guide",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Shop Day",
+              "detail": "Serve customers and manage stock while the record shop is open."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Rhythm",
+              "detail": "Enter music-driven stages that play out after closing time."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Movement",
+              "detail": "Run, jump, slide, and dodge through surreal level layouts."
+            },
+            {
+              "label": "Customers",
+              "detail": "Learn regulars' tastes to make better record recommendations."
+            },
+            {
+              "label": "Records",
+              "detail": "Collect and sell pressings that unlock new adventures."
+            },
+            {
+              "label": "Progress",
+              "detail": "Earnings and discoveries feed back into the shop and story."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/mr-records-tier-list",
+          "name": "MR. RECORDS Records Guide",
+          "description": "Organize information about the records players discover, unlock, sell, and play. The module can explain how records connect the shop-management system with playable rhythm adventures and George's story.",
+          "href": "/mechanics/mr-records-record-collecting",
           "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "S",
+              "detail": "Story records that unlock major rhythm journeys and key memories."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "A",
+              "detail": "Rare pressings that sell high and expand the shop's catalog."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "B",
+              "detail": "Solid everyday stock that keeps regular customers coming back."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "C",
+              "detail": "Common duplicates worth trading in or clearing from the crates."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/mr-records-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "MR. RECORDS Rhythm Guide",
+          "description": "Focus on the rhythm-adventure stages where players run, jump, slide, dodge, and move with the music through surreal landscapes. Include the different gameplay variations such as rhythm battles, chase sequences, environmental changes, and mini-games.",
+          "href": "/mechanics/mr-records-rhythm-game",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Tap",
+              "detail": "Single presses on the beat form the backbone of every chart."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Hold",
+              "detail": "Sustain notes for their full length to keep the combo alive."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Slide",
+              "detail": "Directional swipes carry you through movement-focused sections."
+            },
+            {
+              "label": "Chord",
+              "detail": "Hit grouped notes together instead of rolling through them."
+            },
+            {
+              "label": "Timing",
+              "detail": "Tighter timing windows earn better judgments and higher scores."
+            },
+            {
+              "label": "Combo",
+              "detail": "Clean streaks multiply your score until a single miss breaks it."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/mr-records-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "MR. RECORDS Characters Guide",
+          "description": "Introduce George, his dog Buzz, and the colorful customers encountered in the record shop. Explain how customer stories, memories, photographs, notes, and relationships contribute to the narrative progression.",
+          "href": "/characters/mr-records-characters",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "George",
+              "detail": "The shop owner whose dream and memories drive the story."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Buzz",
+              "detail": "George's loyal dog and constant companion around the shop."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Customers",
+              "detail": "Regulars whose tastes and requests shape your days."
+            },
+            {
+              "label": "Stories",
+              "detail": "Conversations reveal the lives behind each customer request."
+            },
+            {
+              "label": "Photos",
+              "detail": "Snapshots collected along the way record moments from the past."
+            },
+            {
+              "label": "Notes",
+              "detail": "Written fragments add context to George's journey and memories."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/mr-records-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "MR. RECORDS Story Guide",
+          "description": "Cover the narrative structure surrounding George's dream of owning a record shop and the memories brought to life through music. Highlight how the records reveal moments of joy, regret, lost love, and personal reflection.",
+          "href": "/characters/mr-records-george",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Dreams",
+              "detail": "George's wish to run a record shop sets the whole story in motion."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Memories",
+              "detail": "Music brings buried moments back to life as playable stages."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Joy",
+              "detail": "Warm recollections balance the more bittersweet chapters."
+            },
+            {
+              "label": "Regret",
+              "detail": "Some records revisit choices George cannot undo."
+            },
+            {
+              "label": "Lost Love",
+              "detail": "A recurring thread ties the shop's records to a personal past."
+            },
+            {
+              "label": "Reflection",
+              "detail": "Each journey ends with George looking back on what the music means."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "MR. RECORDS Demo Guide",
+          "description": "Provide information about the publicly available Steam demo, what players can experience in it, and how it previews the full game's shop and rhythm gameplay. This section can also summarize the major features available in the demo.",
+          "href": "/guide/mr-records-demo-guide",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Steam",
+              "detail": "The free demo is available now on Steam for PC."
+            },
+            {
+              "label": "Sep 2026",
+              "detail": "The demo launched on September 22, 2026, ahead of release."
+            },
+            {
+              "label": "Shop",
+              "detail": "Play the full day-and-night shop loop in miniature."
+            },
+            {
+              "label": "Rhythm",
+              "detail": "Sample rhythm stages with movement, dodging, and music."
+            },
+            {
+              "label": "Progress",
+              "detail": "Demo saves preview how records and memories carry forward."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "MR. RECORDS Platforms Guide",
+          "description": "Summarize the announced platforms and release information for MR. RECORDS, including PC, PlayStation 5, Xbox Series X|S, and Nintendo Switch 2. Keep the information focused on confirmed platform availability and official release announcements.",
+          "href": "/platforms/mr-records-pc",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "PC",
+              "detail": "Launching on PC through Steam and the Epic Games Store."
+            },
+            {
+              "label": "PS5",
+              "detail": "A PlayStation 5 version is announced for release."
+            },
+            {
+              "label": "Xbox",
+              "detail": "Coming to Xbox Series X|S alongside the other platforms."
+            },
+            {
+              "label": "Switch 2",
+              "detail": "Confirmed for Nintendo Switch 2 with the same rhythm gameplay."
             }
           ]
         }
@@ -308,23 +422,23 @@
       "items": [
         {
           "question": "What is MR. RECORDS?",
-          "answer": "MR. RECORDS is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "MR. RECORDS is a rhythm adventure and record shop management game from Glee-Cheese Studio and Wired Productions. You run George's record shop by day and play music-driven platforming stages by night."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "What platforms is MR. RECORDS on?",
+          "answer": "MR. RECORDS is announced for PC, PlayStation 5, Xbox Series X|S, and Nintendo Switch 2, with a free Steam demo already available."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Is there a free demo of MR. RECORDS?",
+          "answer": "Yes. The MR. RECORDS demo launched on Steam on September 22, 2026, and lets you try both the record shop and the rhythm stages before launch."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "How many levels does MR. RECORDS have?",
+          "answer": "MR. RECORDS features more than 40 handcrafted levels that mix running, jumping, sliding, and rhythm-based action."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "What languages does MR. RECORDS support?",
+          "answer": "MR. RECORDS supports 11 languages, including English, Japanese, Spanish, and Korean."
         }
       ]
     },
