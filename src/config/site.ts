@@ -32,6 +32,6 @@ export const siteConfig: SiteConfig = {
     discord: "https://discord.gg/DwTqJRqcJD",
     youtube: "https://www.youtube.com/c/WiredP",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "ja", "es", "ko"],
   defaultLocale: "en",
 };
