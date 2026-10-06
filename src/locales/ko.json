@@ -1,1 +1,518 @@
-{}
+{
+  "site": {
+    "name": "MR. RECORDS Wiki",
+    "shortName": "MR. RECORDS",
+    "tagline": "레벨, 음악 & 리듬 가이드",
+    "description": "MR. RECORDS 가이드, 레벨, 음악, 레코드 숍 팁, 게임플레이 메커니즘, 캐릭터, 플랫폼, 출시 업데이트 등 알아야 할 모든 것을 확인하세요.",
+    "legalNotice": "비공식 팬 위키입니다. 플레이어가 플레이어를 위해 만들었습니다."
+  },
+  "nav": {
+    "home": "홈",
+    "menu": "메뉴",
+    "toggleTheme": "테마 전환",
+    "guide": "가이드",
+    "mechanics": "메커니즘",
+    "features": "특징",
+    "characters": "캐릭터",
+    "platforms": "플랫폼",
+    "release": "출시"
+  },
+  "home": {
+    "meta": {
+      "title": "MR. RECORDS Wiki - 레벨, 음악 & 리듬 가이드",
+      "description": "MR. RECORDS 가이드, 레벨, 음악, 레코드 숍 팁, 게임플레이 메커니즘, 캐릭터, 플랫폼, 출시 업데이트 등 알아야 할 모든 것을 확인하세요."
+    },
+    "hero": {
+      "eyebrow": "리듬 어드벤처 & 레코드 숍 시뮬레이터",
+      "title": "MR. RECORDS Wiki",
+      "description": "낮에는 조지의 꿈의 레코드 숍을 운영하고, 밤에는 초현실적인 리듬 어드벤처에 빠져들며 음악, 추억, 손님, 이야기를 발견하세요.",
+      "stats": [
+        "40개 이상의 레벨 제공",
+        "11개 언어 지원",
+        "데모 리뷰 점수 87.75%",
+        "2026년 데모 출시"
+      ],
+      "primaryCta": "Steam에서 데모 플레이",
+      "secondaryCta": "초보자 가이드",
+      "tertiaryCta": "PS5 & Switch 2 위시리스트 추가",
+      "videoLabel": "공식 미디어"
+    },
+    "updates": {
+      "title": "최신 업데이트",
+      "browse": "모든 가이드 둘러보기",
+      "viewAll": "전체 보기"
+    },
+    "start": {
+      "eyebrow": "여기서 시작하세요",
+      "title": "당신의 MR. RECORDS 여정",
+      "cards": [
+        {
+          "number": "1",
+          "title": "초보자 가이드",
+          "description": "MR. RECORDS의 핵심 루프를 배우세요. 낮에는 레코드 숍을 열고, 각 손님이 무엇을 찾는지 파악하고, 밤에는 첫 리듬 어드벤처에 발을 들이세요."
+        },
+        {
+          "number": "2",
+          "title": "플레이 방법",
+          "description": "상점과 무대가 어떻게 연결되는지 확인하세요. 손님 응대와 레코드 추천부터 음악에 맞춰 달리고, 점프하고, 슬라이딩하는 액션까지."
+        },
+        {
+          "number": "3",
+          "title": "레코드 & 컬렉션",
+          "description": "레코드가 어떻게 새로운 리듬 여정을 열어주는지, 각 프레싱이 컬렉션에 무엇을 더하는지, 올바른 한 장을 판매해 상점을 성장시키는 방법을 이해하세요."
+        },
+        {
+          "number": "4",
+          "title": "데모 가이드",
+          "description": "MR. RECORDS의 무료 Steam 데모에 무엇이 포함되는지, 완료하는 데 얼마나 걸리는지, 어떤 시스템이 정식 출시로 이어지는지 알아보세요."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "인기 페이지",
+      "title": "지금 인기 있는 콘텐츠",
+      "quickLinks": [
+        "초보자 가이드",
+        "리듬 메커니즘",
+        "레코드 숍",
+        "출시일"
+      ],
+      "cards": [
+        {
+          "badge": "초보자",
+          "title": "초보자 가이드",
+          "description": "카운터 뒤에서의 첫날과 첫 리듬 무대에 필요한 모든 것.",
+          "href": "/guide/mr-records-beginner-guide"
+        },
+        {
+          "badge": "인기",
+          "title": "게임플레이 가이드",
+          "description": "낮에는 상점, 밤에는 리듬으로 이어지는 전체 루프를 단계별로 설명합니다.",
+          "href": "/guide/mr-records-gameplay-guide"
+        },
+        {
+          "badge": "인기",
+          "title": "레코드 숍 가이드",
+          "description": "조지의 상점을 운영하고, 단골을 응대하며, 재고를 채우는 방법.",
+          "href": "/mechanics/mr-records-record-shop"
+        },
+        {
+          "badge": "신규",
+          "title": "리듬 게임 메커니즘",
+          "description": "판정 타이밍, 노트 유형, 콤보, 캘리브레이션을 설명합니다.",
+          "href": "/mechanics/mr-records-rhythm-game"
+        },
+        {
+          "badge": "신규",
+          "title": "조지를 만나보세요",
+          "description": "꿈과 추억으로 전체 스토리를 이끄는 상점 주인.",
+          "href": "/characters/mr-records-george"
+        },
+        {
+          "badge": "인기",
+          "title": "강아지 버즈",
+          "description": "조지의 충실한 동반자이자 레코드 숍의 심장.",
+          "href": "/characters/mr-records-dog"
+        },
+        {
+          "badge": "업데이트",
+          "title": "데모 가이드",
+          "description": "무료 Steam 데모의 구성과 정식 게임을 어떻게 미리 보여주는지.",
+          "href": "/guide/mr-records-demo-guide"
+        },
+        {
+          "badge": "신규",
+          "title": "출시일 & 플랫폼",
+          "description": "확정된 플랫폼, 출시 상태, 지금까지 발표된 모든 것.",
+          "href": "/release/mr-records-release-date"
+        },
+        {
+          "badge": "인기",
+          "title": "PC 버전 가이드",
+          "description": "PC 플레이어를 위한 Steam, Epic Games Store, Steam Deck 세부 정보.",
+          "href": "/platforms/mr-records-pc"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "MR. RECORDS란 무엇인가요?",
+      "paragraphs": [
+        "MR. RECORDS는 개발사 Glee-Cheese Studio와 퍼블리셔 Wired Productions가 만든 리듬 어드벤처 겸 레코드 숍 경영 게임입니다. 플레이어는 조지가 되어 낮에는 레코드 숍을 운영하고, 밤에는 음악으로 움직이는 초현실적인 플랫포머 무대에 들어섭니다. 판매하거나 수집한 레코드가 또 다른 추억으로 가는 문을 열어줍니다.",
+        "이 게임은 아늑한 상점 운영과 40개 이상의 수작업 레벨을 달리고, 점프하고, 슬라이딩하고, 피하는 리듬 기반 액션을 결합합니다. 조지 곁에는 강아지 버즈와 단골손님들이 있으며, 컬렉션을 키울수록 그들의 이야기, 사진, 메모가 펼쳐집니다. 상점과 무대를 하나로 묶는 오리지널 사운드트랙도 함께합니다."
+      ],
+      "stats": [
+        {
+          "label": "개발사",
+          "value": "Glee-Cheese Studio"
+        },
+        {
+          "label": "퍼블리셔",
+          "value": "Wired Productions"
+        },
+        {
+          "label": "장르",
+          "value": "리듬 어드벤처"
+        },
+        {
+          "label": "레벨",
+          "value": "40개 이상"
+        },
+        {
+          "label": "언어",
+          "value": "11"
+        },
+        {
+          "label": "데모 점수",
+          "value": "87.75%"
+        },
+        {
+          "label": "플랫폼",
+          "value": "4"
+        }
+      ],
+      "cta": "모든 가이드 둘러보기"
+    },
+    "explore": {
+      "title": "MR. RECORDS Wiki 둘러보기",
+      "description": "카운터 뒤에서의 첫날부터 리듬 무대, 레코드, 캐릭터, 스토리, 데모, 플랫폼까지 MR. RECORDS의 모든 시스템을 한곳에서.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "MR. RECORDS 초보자 가이드",
+          "description": "신규 플레이어를 위한 핵심 게임플레이 루프를 설명합니다. 레코드 숍 운영, 손님 취향 파악, 레코드 해금, 리듬 여정 진입 등을 포함합니다. 고급 진행 지식에 의존하지 않고 명확한 시작 경로를 제시하는 모듈입니다.",
+          "href": "/guide/mr-records-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "상점을 열고 카운터에서 첫 손님을 맞이하세요."
+            },
+            {
+              "label": "2",
+              "detail": "각 요청을 읽고 분위기에 맞는 레코드를 추천하세요."
+            },
+            {
+              "label": "3",
+              "detail": "레코드에 바늘을 올리면 리듬 여정이 시작됩니다."
+            },
+            {
+              "label": "4",
+              "detail": "음악에 맞춰 달리고, 점프하고, 슬라이딩하며 무대를 클리어하세요."
+            },
+            {
+              "label": "5",
+              "detail": "각 무대에서 해금되는 추억, 사진, 메모를 수집하세요."
+            },
+            {
+              "label": "6",
+              "detail": "수익을 재투자하고 새 레코드로 루프를 반복하세요."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "MR. RECORDS 게임플레이 가이드",
+          "description": "MR. RECORDS의 두 축인 낮의 레코드 숍 경영과 밤의 음악 기반 플랫포머 무대를 다룹니다. 이동, 리듬 액션, 손님 상호작용, 레코드 추천, 진행을 포함합니다.",
+          "href": "/guide/mr-records-gameplay-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "상점 영업",
+              "detail": "영업 중에 손님을 응대하고 재고를 관리하세요."
+            },
+            {
+              "label": "리듬",
+              "detail": "영업 종료 후 펼쳐지는 음악 무대에 들어가세요."
+            },
+            {
+              "label": "이동",
+              "detail": "초현실적인 레벨 구조를 달리고, 점프하고, 슬라이딩하고, 피하세요."
+            },
+            {
+              "label": "손님",
+              "detail": "단골의 취향을 익혀 더 나은 레코드를 추천하세요."
+            },
+            {
+              "label": "레코드",
+              "detail": "새로운 모험을 해금하는 프레싱을 수집하고 판매하세요."
+            },
+            {
+              "label": "진행",
+              "detail": "수익과 발견이 상점과 스토리로 되돌아옵니다."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "MR. RECORDS 레코드 가이드",
+          "description": "플레이어가 발견하고, 해금하고, 판매하고, 재생하는 레코드에 대한 정보를 정리합니다. 레코드가 상점 경영 시스템과 플레이 가능한 리듬 어드벤처, 그리고 조지의 스토리를 어떻게 연결하는지 설명합니다.",
+          "href": "/mechanics/mr-records-record-collecting",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "주요 리듬 여정과 핵심 추억을 해금하는 스토리 레코드."
+            },
+            {
+              "label": "A",
+              "detail": "높은 가격에 팔리고 상점의 카탈로그를 넓히는 희귀 프레싱."
+            },
+            {
+              "label": "B",
+              "detail": "단골손님을 계속 불러들이는 탄탄한 일상 재고."
+            },
+            {
+              "label": "C",
+              "detail": "교환하거나 상자에서 정리할 가치가 있는 흔한 중복판."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "MR. RECORDS 리듬 가이드",
+          "description": "플레이어가 초현실적인 풍경 속에서 음악에 맞춰 달리고, 점프하고, 슬라이딩하고, 피하며 움직이는 리듬 어드벤처 무대에 집중합니다. 리듬 배틀, 추격 시퀀스, 환경 변화, 미니게임 등 다양한 변형을 포함합니다.",
+          "href": "/mechanics/mr-records-rhythm-game",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "탭",
+              "detail": "박자에 맞춘 단일 입력이 모든 채보의 기본입니다."
+            },
+            {
+              "label": "홀드",
+              "detail": "노트를 끝까지 유지해 콤보를 이어가세요."
+            },
+            {
+              "label": "슬라이드",
+              "detail": "방향 스와이프로 이동 중심 구간을 통과하세요."
+            },
+            {
+              "label": "코드",
+              "detail": "묶인 노트는 하나씩 굴리지 말고 동시에 누르세요."
+            },
+            {
+              "label": "타이밍",
+              "detail": "판정 범위가 좁을수록 더 좋은 판정과 높은 점수를 얻습니다."
+            },
+            {
+              "label": "콤보",
+              "detail": "실수 없는 연속이 점수를 배가하며, 한 번의 실수로 끊깁니다."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "MR. RECORDS 캐릭터 가이드",
+          "description": "조지, 그의 강아지 버즈, 레코드 숍에서 만나는 다채로운 손님들을 소개합니다. 손님의 이야기, 추억, 사진, 메모, 관계가 서사 진행에 어떻게 기여하는지 설명합니다.",
+          "href": "/characters/mr-records-characters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "조지",
+              "detail": "꿈과 추억이 스토리를 이끄는 상점 주인."
+            },
+            {
+              "label": "버즈",
+              "detail": "조지의 충실한 강아지이자 상점에서 늘 함께하는 동반자."
+            },
+            {
+              "label": "손님",
+              "detail": "취향과 요청으로 당신의 하루를 만들어가는 단골들."
+            },
+            {
+              "label": "이야기",
+              "detail": "대화를 통해 각 요청 뒤에 숨은 삶이 드러납니다."
+            },
+            {
+              "label": "사진",
+              "detail": "여정에서 모은 스냅샷이 과거의 순간을 기록합니다."
+            },
+            {
+              "label": "메모",
+              "detail": "적힌 조각들이 조지의 여정과 추억에 맥락을 더합니다."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "MR. RECORDS 스토리 가이드",
+          "description": "레코드 숍을 갖고 싶은 조지의 꿈과 음악을 통해 되살아나는 추억을 둘러싼 서사 구조를 다룹니다. 레코드가 기쁨, 후회, 잃어버린 사랑, 자기 성찰의 순간을 어떻게 드러내는지 조명합니다.",
+          "href": "/characters/mr-records-george",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "꿈",
+              "detail": "레코드 숍을 운영하고 싶은 조지의 바람이 모든 이야기를 시작합니다."
+            },
+            {
+              "label": "추억",
+              "detail": "음악이 묻혀 있던 순간을 플레이 가능한 무대로 되살립니다."
+            },
+            {
+              "label": "기쁨",
+              "detail": "따뜻한 회상이 더 씁쓸한 장들의 균형을 잡아줍니다."
+            },
+            {
+              "label": "후회",
+              "detail": "일부 레코드는 조지가 되돌릴 수 없는 선택을 다시 마주하게 합니다."
+            },
+            {
+              "label": "잃어버린 사랑",
+              "detail": "상점의 레코드와 개인적 과거를 잇는 반복되는 실마리."
+            },
+            {
+              "label": "성찰",
+              "detail": "각 여정은 음악이 무엇을 의미하는지 돌아보는 조지로 끝납니다."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "MR. RECORDS 데모 가이드",
+          "description": "공개된 Steam 데모에 대한 정보, 플레이어가 체험할 수 있는 내용, 정식 게임의 상점과 리듬 게임플레이를 어떻게 미리 보여주는지 제공합니다. 데모에서 이용할 수 있는 주요 기능도 요약합니다.",
+          "href": "/guide/mr-records-demo-guide",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Steam",
+              "detail": "무료 데모는 현재 PC용 Steam에서 이용할 수 있습니다."
+            },
+            {
+              "label": "2026년 9월",
+              "detail": "데모는 출시에 앞서 2026년 9월 22일 공개되었습니다."
+            },
+            {
+              "label": "상점",
+              "detail": "낮과 밤의 상점 루프를 축소판으로 플레이하세요."
+            },
+            {
+              "label": "리듬",
+              "detail": "이동, 회피, 음악이 있는 리듬 무대를 맛보세요."
+            },
+            {
+              "label": "진행",
+              "detail": "데모 세이브가 레코드와 추억이 어떻게 이어지는지 미리 보여줍니다."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "MR. RECORDS 플랫폼 가이드",
+          "description": "PC, PlayStation 5, Xbox Series X|S, Nintendo Switch 2를 포함해 MR. RECORDS의 발표된 플랫폼과 출시 정보를 요약합니다. 확정된 플랫폼 가용성과 공식 출시 발표에 초점을 맞춥니다.",
+          "href": "/platforms/mr-records-pc",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "PC",
+              "detail": "Steam과 Epic Games Store를 통해 PC로 출시됩니다."
+            },
+            {
+              "label": "PS5",
+              "detail": "PlayStation 5 버전 출시가 발표되었습니다."
+            },
+            {
+              "label": "Xbox",
+              "detail": "다른 플랫폼과 함께 Xbox Series X|S로 출시됩니다."
+            },
+            {
+              "label": "Switch 2",
+              "detail": "동일한 리듬 게임플레이로 Nintendo Switch 2에 확정되었습니다."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "자주 묻는 질문",
+      "description": "MR. RECORDS에 대한 가장 흔한 질문에 대한 빠른 답변.",
+      "items": [
+        {
+          "question": "MR. RECORDS는 무엇인가요?",
+          "answer": "MR. RECORDS는 Glee-Cheese Studio와 Wired Productions의 리듬 어드벤처 겸 레코드 숍 경영 게임입니다. 낮에는 조지의 레코드 숍을 운영하고 밤에는 음악 기반 플랫포머 무대를 플레이합니다."
+        },
+        {
+          "question": "MR. RECORDS는 어떤 플랫폼에서 플레이할 수 있나요?",
+          "answer": "MR. RECORDS는 PC, PlayStation 5, Xbox Series X|S, Nintendo Switch 2용으로 발표되었으며, 무료 Steam 데모가 이미 제공됩니다."
+        },
+        {
+          "question": "MR. RECORDS의 무료 데모가 있나요?",
+          "answer": "네. MR. RECORDS 데모는 2026년 9월 22일 Steam에 출시되었으며, 정식 출시 전에 레코드 숍과 리듬 무대를 모두 체험할 수 있습니다."
+        },
+        {
+          "question": "MR. RECORDS에는 레벨이 몇 개 있나요?",
+          "answer": "MR. RECORDS에는 달리기, 점프, 슬라이딩, 리듬 액션을 결합한 40개 이상의 수작업 레벨이 있습니다."
+        },
+        {
+          "question": "MR. RECORDS는 어떤 언어를 지원하나요?",
+          "answer": "MR. RECORDS는 영어, 일본어, 스페인어, 한국어를 포함한 11개 언어를 지원합니다."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "MR. RECORDS를 마스터할 준비가 되셨나요?",
+      "description": "첫 레코드 숍 영업일부터 초현실적인 리듬 배틀 정복까지, 커뮤니티 위키가 무료 최신 가이드로 함께합니다.",
+      "primary": "초보자 가이드 읽기",
+      "secondary": "Steam에서 데모 플레이"
+    }
+  },
+  "guide": {
+    "overviewTitle": "MR. RECORDS 초보자 가이드",
+    "overviewDescription": "첫 영업 시간, 레코드 숍 기초, 리듬 무대, 워크스루, 첫 플레이 팁을 다루는 MR. RECORDS 초보자 가이드로 힘차게 시작하세요."
+  },
+  "mechanics": {
+    "overviewTitle": "MR. RECORDS 게임 메커니즘",
+    "overviewDescription": "리듬 배틀과 레코드 숍 경영부터 바이닐 수집, 상상 시스템, 음악 기반 게임플레이까지 MR. RECORDS의 작동 방식을 배우세요."
+  },
+  "features": {
+    "overviewTitle": "MR. RECORDS 특징 & 트레일러",
+    "overviewDescription": "MR. RECORDS의 데모, 게임플레이 공개, 애니메이션 트레일러, Day of the Devs 쇼케이스를 한곳에서 확인하세요."
+  },
+  "characters": {
+    "overviewTitle": "MR. RECORDS 캐릭터",
+    "overviewDescription": "조지, 그의 강아지, 소시지 블루스 등 레코드 숍에 생기를 불어넣는 인물들을 만나보세요."
+  },
+  "platforms": {
+    "overviewTitle": "MR. RECORDS 플랫폼",
+    "overviewDescription": "PC, PS5, Xbox, Nintendo Switch, Switch 2, Steam Deck에서 MR. RECORDS를 플레이할 수 있는 곳을 알아보세요."
+  },
+  "release": {
+    "overviewTitle": "MR. RECORDS 출시 & 버전",
+    "overviewDescription": "Steam, GOG, PS5, Nintendo Switch용 MR. RECORDS 출시일, 스토어 페이지, 버전 정보를 확인하세요."
+  },
+  "shared": {
+    "wikiNavigation": "위키 내비게이션",
+    "activeCodes": "활성 코드",
+    "updated": "업데이트됨",
+    "viewAllCodes": "모든 코드 보기",
+    "playOnRoblox": "Roblox에서 플레이",
+    "inThisSection": "이 섹션에서",
+    "tableOfContents": "목차",
+    "nextSteps": "다음 단계",
+    "needHelp": "도움이 필요하신가요?",
+    "relatedReading": "관련 읽을거리",
+    "relatedGuides": "관련 가이드",
+    "readMore": "더 보기",
+    "officialMedia": "공식 미디어",
+    "home": "홈",
+    "noGuidesAvailable": "아직 가이드가 없습니다. 곧 다시 확인해 주세요!"
+  },
+  "footer": {
+    "aboutTitle": "MR. RECORDS Wiki",
+    "about": "MR. RECORDS Wiki는 레벨, 음악, 레코드 숍 경영, 캐릭터, 필수 게임 지식을 다루는 팬 제작 독립 가이드 허브로, 신규 플레이어와 베테랑 모두에게 도움이 됩니다.",
+    "quickLinks": "빠른 링크",
+    "guides": "가이드",
+    "legal": "법적 고지",
+    "copyright": "2026 MR. RECORDS Wiki. Glee-Cheese Studio 및 Wired Productions와 제휴 관계가 없습니다.",
+    "description": "리듬 어드벤처 & 레코드 숍 시뮬레이터. 40개 이상의 레벨, 오리지널 음악, PC, PS5, Xbox Series X|S & Switch 2.",
+    "playGame": "Steam에서 MR. RECORDS 플레이",
+    "officialDiscord": "공식 Discord",
+    "officialYoutube": "공식 YouTube",
+    "vvBuilder": "공식 웹사이트",
+    "beginnerGuide": "초보자 가이드",
+    "privacyPolicy": "개인정보 처리방침",
+    "termsOfService": "서비스 약관",
+    "mechanicsGuide": "메커니즘",
+    "charactersGuide": "캐릭터",
+    "platformsGuide": "플랫폼"
+  }
+}

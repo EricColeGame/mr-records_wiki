@@ -1,1 +1,518 @@
-{}
+{
+  "site": {
+    "name": "MR. RECORDS Wiki",
+    "shortName": "MR. RECORDS",
+    "tagline": "レベル・音楽・リズムのガイド",
+    "description": "MR. RECORDS のガイド、レベル、音楽、レコードショップのコツ、ゲームメカニクス、キャラクター、対応プラットフォーム、リリース情報など、知っておきたいすべてを紹介します。",
+    "legalNotice": "非公式のファンウィキです。プレイヤーがプレイヤーのために作っています。"
+  },
+  "nav": {
+    "home": "ホーム",
+    "menu": "メニュー",
+    "toggleTheme": "テーマを切り替え",
+    "guide": "ガイド",
+    "mechanics": "メカニクス",
+    "features": "特徴",
+    "characters": "キャラクター",
+    "platforms": "プラットフォーム",
+    "release": "リリース"
+  },
+  "home": {
+    "meta": {
+      "title": "MR. RECORDS Wiki - レベル・音楽・リズムのガイド",
+      "description": "MR. RECORDS のガイド、レベル、音楽、レコードショップのコツ、ゲームメカニクス、キャラクター、対応プラットフォーム、リリース情報など、知っておきたいすべてを紹介します。"
+    },
+    "hero": {
+      "eyebrow": "リズムアドベンチャー＆レコードショップシミュレーター",
+      "title": "MR. RECORDS Wiki",
+      "description": "昼はジョージの夢のレコードショップを切り盛りし、夜はシュールなリズムアドベンチャーに飛び込み、音楽、思い出、お客さん、物語を発見しよう。",
+      "stats": [
+        "40以上のレベルを収録",
+        "11言語に対応",
+        "デモレビュー評価 87.75%",
+        "2026年 デモリリース"
+      ],
+      "primaryCta": "Steamでデモをプレイ",
+      "secondaryCta": "初心者ガイド",
+      "tertiaryCta": "PS5・Switch 2版をウィッシュリストに追加",
+      "videoLabel": "公式メディア"
+    },
+    "updates": {
+      "title": "最新アップデート",
+      "browse": "すべてのガイドを見る",
+      "viewAll": "すべて表示"
+    },
+    "start": {
+      "eyebrow": "ここから始める",
+      "title": "あなたの MR. RECORDS の旅",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "MR. RECORDS の基本ループを学びましょう。昼はレコードショップを開き、お客さんが何を求めているかを読み取り、夜には最初のリズムアドベンチャーに踏み出します。"
+        },
+        {
+          "number": "2",
+          "title": "遊び方",
+          "description": "お店とステージがどうつながるかを確認しましょう。お客さんの接客やレコードの提案から、音楽に合わせて走り、跳び、滑るアクションまで。"
+        },
+        {
+          "number": "3",
+          "title": "レコードとコレクション",
+          "description": "レコードがどのように新しいリズムの旅を解放し、各プレス盤がコレクションに何を加え、適切な1枚を売ることでお店がどう成長するかを理解しましょう。"
+        },
+        {
+          "number": "4",
+          "title": "デモガイド",
+          "description": "MR. RECORDS の無料Steamデモに何が含まれ、クリアにどれくらいかかり、どのシステムが製品版に引き継がれるかを紹介します。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気ページ",
+      "title": "いま話題の記事",
+      "quickLinks": [
+        "初心者ガイド",
+        "リズムの仕組み",
+        "レコードショップ",
+        "リリース日"
+      ],
+      "cards": [
+        {
+          "badge": "初心者",
+          "title": "初心者ガイド",
+          "description": "カウンターでの最初の一日と最初のリズムステージに必要なすべて。",
+          "href": "/guide/mr-records-beginner-guide"
+        },
+        {
+          "badge": "人気",
+          "title": "ゲームプレイガイド",
+          "description": "昼はお店、夜はリズムという一連の流れを順を追って解説。",
+          "href": "/guide/mr-records-gameplay-guide"
+        },
+        {
+          "badge": "人気",
+          "title": "レコードショップガイド",
+          "description": "ジョージのお店の切り盛り、常連客の接客、在庫の管理方法。",
+          "href": "/mechanics/mr-records-record-shop"
+        },
+        {
+          "badge": "新着",
+          "title": "リズムゲームの仕組み",
+          "description": "判定タイミング、ノーツの種類、コンボ、キャリブレーションを解説。",
+          "href": "/mechanics/mr-records-rhythm-game"
+        },
+        {
+          "badge": "新着",
+          "title": "ジョージを知る",
+          "description": "夢と思い出が物語全体を動かすお店の店主。",
+          "href": "/characters/mr-records-george"
+        },
+        {
+          "badge": "人気",
+          "title": "犬のバズ",
+          "description": "ジョージの忠実な相棒で、レコードショップの心。",
+          "href": "/characters/mr-records-dog"
+        },
+        {
+          "badge": "更新",
+          "title": "デモガイド",
+          "description": "無料Steamデモの内容と、製品版をどう予習できるか。",
+          "href": "/guide/mr-records-demo-guide"
+        },
+        {
+          "badge": "新着",
+          "title": "リリース日とプラットフォーム",
+          "description": "確定したプラットフォーム、リリース状況、これまでに発表されたすべて。",
+          "href": "/release/mr-records-release-date"
+        },
+        {
+          "badge": "人気",
+          "title": "PC版ガイド",
+          "description": "PCプレイヤー向けのSteam、Epic Games Store、Steam Deckの詳細。",
+          "href": "/platforms/mr-records-pc"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "MR. RECORDS とは？",
+      "paragraphs": [
+        "MR. RECORDS は、開発元 Glee-Cheese Studio とパブリッシャー Wired Productions によるリズムアドベンチャー兼レコードショップ経営ゲームです。プレイヤーはジョージとなり、昼はレコードショップを営み、夜は音楽に駆動されたシュールなプラットフォームステージに飛び込みます。売ったり集めたりしたレコードが、新たな思い出への扉を開きます。",
+        "本作は、居心地のよいお店の経営と、40以上に及ぶ手作りのレベルを駆け抜けるリズム主体のランニング、ジャンプ、スライディング、回避を組み合わせています。ジョージには犬のバズと、常連客たちが寄り添い、コレクションを育てるにつれて彼らの物語や写真、メモが明かされていきます。お店とステージをつなぐオリジナルサウンドトラックも魅力です。"
+      ],
+      "stats": [
+        {
+          "label": "開発元",
+          "value": "Glee-Cheese Studio"
+        },
+        {
+          "label": "パブリッシャー",
+          "value": "Wired Productions"
+        },
+        {
+          "label": "ジャンル",
+          "value": "リズムアドベンチャー"
+        },
+        {
+          "label": "レベル数",
+          "value": "40以上"
+        },
+        {
+          "label": "言語",
+          "value": "11"
+        },
+        {
+          "label": "デモ評価",
+          "value": "87.75%"
+        },
+        {
+          "label": "プラットフォーム",
+          "value": "4"
+        }
+      ],
+      "cta": "すべてのガイドを見る"
+    },
+    "explore": {
+      "title": "MR. RECORDS Wiki を探索",
+      "description": "カウンターでの最初の一日から、リズムステージ、レコード、キャラクター、物語、デモ、プラットフォームまで、MR. RECORDS のあらゆるシステムを一か所に。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "MR. RECORDS 初心者ガイド",
+          "description": "新規プレイヤー向けに基本的なゲームループを解説します。レコードショップの運営、お客さんの好みの把握、レコードの解放、リズムの旅への入り方などを含みます。高度な進行知識に頼らず、明確な始め方を示すモジュールです。",
+          "href": "/guide/mr-records-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "お店を開き、カウンターで最初のお客さんを迎えましょう。"
+            },
+            {
+              "label": "2",
+              "detail": "それぞれのリクエストを読み、雰囲気に合うレコードを提案しましょう。"
+            },
+            {
+              "label": "3",
+              "detail": "レコードに針を落とすと、リズムの旅が始まります。"
+            },
+            {
+              "label": "4",
+              "detail": "音楽に合わせて走り、跳び、滑ってステージをクリアしましょう。"
+            },
+            {
+              "label": "5",
+              "detail": "各ステージで解放される思い出、写真、メモを集めましょう。"
+            },
+            {
+              "label": "6",
+              "detail": "稼いだお金を再投資し、新しいレコードでループを繰り返しましょう。"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "MR. RECORDS ゲームプレイガイド",
+          "description": "MR. RECORDS の二本柱である、昼のレコードショップ経営と夜の音楽駆動プラットフォームステージを解説します。移動、リズムアクション、お客さんとのやり取り、レコードの提案、進行を含みます。",
+          "href": "/guide/mr-records-gameplay-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "お店の昼",
+              "detail": "営業中にお客さんを接客し、在庫を管理しましょう。"
+            },
+            {
+              "label": "リズム",
+              "detail": "閉店後に展開する音楽ステージに挑みましょう。"
+            },
+            {
+              "label": "移動",
+              "detail": "シュールなレベル構成を走り、跳び、滑り、回避しましょう。"
+            },
+            {
+              "label": "お客さん",
+              "detail": "常連客の好みを覚えて、より良いレコードを提案しましょう。"
+            },
+            {
+              "label": "レコード",
+              "detail": "新しい冒険を解放するプレス盤を集めて売りましょう。"
+            },
+            {
+              "label": "進行",
+              "detail": "稼ぎと発見がお店と物語に還元されます。"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "MR. RECORDS レコードガイド",
+          "description": "プレイヤーが発見・解放・販売・再生するレコードの情報を整理します。レコードがお店の経営システムとプレイ可能なリズムアドベンチャー、そしてジョージの物語をどうつなぐかを解説します。",
+          "href": "/mechanics/mr-records-record-collecting",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "主要なリズムの旅と重要な思い出を解放するストーリーレコード。"
+            },
+            {
+              "label": "A",
+              "detail": "高値で売れ、お店のカタログを広げるレア盤。"
+            },
+            {
+              "label": "B",
+              "detail": "常連客を引き寄せ続ける、安定した日常在庫。"
+            },
+            {
+              "label": "C",
+              "detail": "交換に出したり、箱から整理したりする価値のあるよくある重複盤。"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "MR. RECORDS リズムガイド",
+          "description": "プレイヤーがシュールな風景の中を音楽に合わせて走り、跳び、滑り、回避し、動くリズムアドベンチャーステージに焦点を当てます。リズムバトル、追跡シーン、環境変化、ミニゲームなどのさまざまなバリエーションを含みます。",
+          "href": "/mechanics/mr-records-rhythm-game",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "タップ",
+              "detail": "ビートに合わせた単発の押しが、すべての譜面の基礎になります。"
+            },
+            {
+              "label": "ホールド",
+              "detail": "ノーツを最後まで押し続けてコンボをつなぎましょう。"
+            },
+            {
+              "label": "スライド",
+              "detail": "方向スワイプで移動主体のセクションを突破しましょう。"
+            },
+            {
+              "label": "コード",
+              "detail": "まとまったノーツは順番にではなく同時に押しましょう。"
+            },
+            {
+              "label": "タイミング",
+              "detail": "判定幅が厳しいほど良い評価と高いスコアが得られます。"
+            },
+            {
+              "label": "コンボ",
+              "detail": "ミスのない連続がスコアを倍増させ、一度のミスで途切れます。"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "MR. RECORDS キャラクターガイド",
+          "description": "ジョージ、犬のバズ、レコードショップで出会う個性豊かなお客さんたちを紹介します。お客さんの物語、思い出、写真、メモ、関係性が物語の進行にどう寄与するかを解説します。",
+          "href": "/characters/mr-records-characters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "ジョージ",
+              "detail": "夢と思い出が物語を動かすお店の店主。"
+            },
+            {
+              "label": "バズ",
+              "detail": "ジョージの忠実な犬で、お店での絶え間ない相棒。"
+            },
+            {
+              "label": "お客さん",
+              "detail": "好みとリクエストであなたの毎日を形作る常連たち。"
+            },
+            {
+              "label": "物語",
+              "detail": "会話が、それぞれのリクエストの裏にある人生を明かします。"
+            },
+            {
+              "label": "写真",
+              "detail": "道中で集めたスナップ写真が過去の瞬間を記録します。"
+            },
+            {
+              "label": "メモ",
+              "detail": "書き残された断片がジョージの旅と思い出に文脈を加えます。"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "MR. RECORDS ストーリーガイド",
+          "description": "レコードショップを持ちたいというジョージの夢と、音楽によってよみがえる思い出をめぐる物語構造を扱います。レコードが喜び、後悔、失われた愛、自己省察の瞬間をどう明かすかを強調します。",
+          "href": "/characters/mr-records-george",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "夢",
+              "detail": "レコードショップを営みたいというジョージの願いが物語を動かし始めます。"
+            },
+            {
+              "label": "思い出",
+              "detail": "音楽が埋もれた瞬間をプレイ可能なステージとしてよみがえらせます。"
+            },
+            {
+              "label": "喜び",
+              "detail": "温かな回想が、ほろ苦い章のバランスを取ります。"
+            },
+            {
+              "label": "後悔",
+              "detail": "いくつかのレコードは、ジョージが取り消せない選択を再訪させます。"
+            },
+            {
+              "label": "失われた愛",
+              "detail": "お店のレコードと個人的な過去を結ぶ、繰り返し現れる糸。"
+            },
+            {
+              "label": "省察",
+              "detail": "それぞれの旅は、音楽が何を意味するか振り返るジョージで締めくくられます。"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "MR. RECORDS デモガイド",
+          "description": "公開されているSteamデモについて、プレイヤーが体験できる内容、製品版のお店とリズムのゲームプレイをどう予習できるかを紹介します。デモで利用できる主要な機能も要約します。",
+          "href": "/guide/mr-records-demo-guide",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Steam",
+              "detail": "無料デモはPC向けSteamで配信中です。"
+            },
+            {
+              "label": "2026年9月",
+              "detail": "デモはリリースに先立ち、2026年9月22日に配信されました。"
+            },
+            {
+              "label": "お店",
+              "detail": "昼と夜のお店ループをミニチュアで体験できます。"
+            },
+            {
+              "label": "リズム",
+              "detail": "移動、回避、音楽を伴うリズムステージを試せます。"
+            },
+            {
+              "label": "進行",
+              "detail": "デモのセーブデータが、レコードと思い出の引き継ぎ方を予習させます。"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "MR. RECORDS プラットフォームガイド",
+          "description": "PC、PlayStation 5、Xbox Series X|S、Nintendo Switch 2 など、MR. RECORDS の発表済みプラットフォームとリリース情報をまとめます。確定した対応プラットフォームと公式リリース発表に焦点を当てます。",
+          "href": "/platforms/mr-records-pc",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "PC",
+              "detail": "SteamとEpic Games Storeを通じてPCでリリース予定。"
+            },
+            {
+              "label": "PS5",
+              "detail": "PlayStation 5版のリリースが発表されています。"
+            },
+            {
+              "label": "Xbox",
+              "detail": "他のプラットフォームとともにXbox Series X|Sにも登場予定。"
+            },
+            {
+              "label": "Switch 2",
+              "detail": "同じリズムゲームプレイでNintendo Switch 2向けに確定。"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "よくある質問",
+      "description": "MR. RECORDS に関する最も一般的な質問への簡単な回答。",
+      "items": [
+        {
+          "question": "MR. RECORDS とは何ですか？",
+          "answer": "MR. RECORDS は、Glee-Cheese Studio と Wired Productions によるリズムアドベンチャー兼レコードショップ経営ゲームです。昼はジョージのレコードショップを営み、夜は音楽に駆動されたプラットフォームステージをプレイします。"
+        },
+        {
+          "question": "MR. RECORDS はどのプラットフォームで遊べますか？",
+          "answer": "MR. RECORDS は PC、PlayStation 5、Xbox Series X|S、Nintendo Switch 2 向けに発表されており、無料のSteamデモがすでに配信中です。"
+        },
+        {
+          "question": "MR. RECORDS の無料デモはありますか？",
+          "answer": "はい。MR. RECORDS のデモは2026年9月22日にSteamで配信され、リリース前にレコードショップとリズムステージの両方を試せます。"
+        },
+        {
+          "question": "MR. RECORDS にはいくつのレベルがありますか？",
+          "answer": "MR. RECORDS には、ランニング、ジャンプ、スライディング、リズムアクションを組み合わせた40以上の手作りレベルがあります。"
+        },
+        {
+          "question": "MR. RECORDS はどの言語に対応していますか？",
+          "answer": "MR. RECORDS は英語、日本語、スペイン語、韓国語を含む11言語に対応しています。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "MR. RECORDS を極める準備はできましたか？",
+      "description": "最初のレコードショップの一日から、シュールなリズムバトルの制覇まで、コミュニティウィキが無料で最新のガイドをお届けします。",
+      "primary": "初心者ガイドを読む",
+      "secondary": "Steamでデモをプレイ"
+    }
+  },
+  "guide": {
+    "overviewTitle": "MR. RECORDS 初心者ガイド",
+    "overviewDescription": "最初の時間帯、レコードショップの基本、リズムステージ、攻略、最初のプレイのコツを扱う MR. RECORDS 初心者ガイドで好スタートを切りましょう。"
+  },
+  "mechanics": {
+    "overviewTitle": "MR. RECORDS ゲームメカニクス",
+    "overviewDescription": "リズムバトルやレコードショップ経営から、ビニール収集、イマジネーションシステム、音楽駆動のゲームプレイまで、MR. RECORDS の仕組みを学びましょう。"
+  },
+  "features": {
+    "overviewTitle": "MR. RECORDS の特徴とトレーラー",
+    "overviewDescription": "MR. RECORDS のデモ、ゲームプレイ公開、アナウンストレーラー、Day of the Devs のショーケースを一か所でチェック。"
+  },
+  "characters": {
+    "overviewTitle": "MR. RECORDS キャラクター",
+    "overviewDescription": "ジョージ、彼の犬、ソーセージ・ブルースなど、レコードショップに命を吹き込む個性豊かな面々を紹介します。"
+  },
+  "platforms": {
+    "overviewTitle": "MR. RECORDS 対応プラットフォーム",
+    "overviewDescription": "PC、PS5、Xbox、Nintendo Switch、Switch 2、Steam Deck など、MR. RECORDS を遊べる場所を確認しましょう。"
+  },
+  "release": {
+    "overviewTitle": "MR. RECORDS リリースとバージョン",
+    "overviewDescription": "Steam、GOG、PS5、Nintendo Switch 向けの MR. RECORDS のリリース日、ストアページ、バージョン詳細を追いましょう。"
+  },
+  "shared": {
+    "wikiNavigation": "ウィキナビゲーション",
+    "activeCodes": "有効なコード",
+    "updated": "更新",
+    "viewAllCodes": "すべてのコードを見る",
+    "playOnRoblox": "Robloxでプレイ",
+    "inThisSection": "このセクションの内容",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "お困りですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "まだガイドがありません。また後でチェックしてください！"
+  },
+  "footer": {
+    "aboutTitle": "MR. RECORDS Wiki",
+    "about": "MR. RECORDS Wiki は、レベル、音楽、レコードショップ経営、キャラクター、ゲームの基本知識を扱う、ファンによる独立系ガイドハブです。新規プレイヤーにもベテランにも役立ちます。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド",
+    "legal": "法的情報",
+    "copyright": "2026 MR. RECORDS Wiki. Glee-Cheese Studio および Wired Productions とは提携していません。",
+    "description": "リズムアドベンチャー＆レコードショップシミュレーター。40以上のレベル、オリジナル音楽、PC、PS5、Xbox Series X|S、Switch 2。",
+    "playGame": "SteamでMR. RECORDSをプレイ",
+    "officialDiscord": "公式Discord",
+    "officialYoutube": "公式YouTube",
+    "vvBuilder": "公式サイト",
+    "beginnerGuide": "初心者ガイド",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約",
+    "mechanicsGuide": "メカニクス",
+    "charactersGuide": "キャラクター",
+    "platformsGuide": "プラットフォーム"
+  }
+}
