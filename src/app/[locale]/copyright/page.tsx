@@ -3,9 +3,9 @@ import { LegalPage } from "@/components/legal-page";
 export default function CopyrightPage() {
   return (
     <LegalPage title="Copyright">
-      <p>VV: ULTIMATUM, Roblox, Bleach-inspired concepts, logos, and related media belong to their respective owners.</p>
-      <p>This clone is a non-official fan wiki implementation for educational and guide presentation purposes.</p>
-      <p>If you own rights to content displayed here and have a concern, please contact the site operator for review.</p>
+      <p>MR. RECORDS, its logos, artwork, music, and related media belong to Glee-Cheese Studio and Wired Productions. All trademarks are the property of their respective owners.</p>
+      <p>This is a non-official fan wiki created for informational and guide presentation purposes.</p>
+      <p>If you own rights to content displayed here and have a concern, please contact support@mr-records.wiki for review.</p>
     </LegalPage>
   );
 }

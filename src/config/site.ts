@@ -25,9 +25,9 @@ export const siteConfig: SiteConfig = {
   tagline: "Levels, Music & Rhythm Guide",
   description: "Discover MR. RECORDS guides, levels, music, record shop tips, gameplay mechanics, characters, platforms, release updates, and everything you need to know.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://mr-records.wiki",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://mr-records.wiki").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@mr-records.wiki",
   gameUrl: "https://store.steampowered.com/app/3053470/MR_RECORDS/",
-  heroVideoId: "4fVut9TBncY", // MR. RECORDS | Meet George official trailer
+  heroVideoId: "4fVut9TBncY", // MR. RECORDS | Steam Next Fest Demo Trailer (Wired Productions)
   social: {
     discord: "https://discord.gg/DwTqJRqcJD",
     youtube: "https://www.youtube.com/c/WiredP",
