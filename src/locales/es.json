@@ -3,7 +3,7 @@
     "name": "MR. RECORDS Wiki",
     "shortName": "MR. RECORDS",
     "tagline": "Guía de niveles, música y ritmo",
-    "description": "Descubre guías, niveles, música, consejos sobre la tienda de discos, mecánicas de juego, personajes, plataformas, novedades de lanzamiento y todo lo que necesitas saber sobre MR. RECORDS.",
+    "description": "Descubre las guías de MR. RECORDS, niveles, música, consejos sobre la tienda de discos, mecánicas de juego, personajes, plataformas, novedades de lanzamiento y todo lo que necesitas saber.",
     "legalNotice": "Wiki de fans no oficial. Hecha por jugadores, para jugadores."
   },
   "nav": {
@@ -20,22 +20,22 @@
   "home": {
     "meta": {
       "title": "MR. RECORDS Wiki - Guía de niveles, música y ritmo",
-      "description": "Descubre guías, niveles, música, consejos sobre la tienda de discos, mecánicas de juego, personajes, plataformas, novedades de lanzamiento y todo lo que necesitas saber sobre MR. RECORDS."
+      "description": "Descubre las guías de MR. RECORDS, niveles, música, consejos sobre la tienda de discos, mecánicas de juego, personajes, plataformas, novedades de lanzamiento y todo lo que necesitas saber."
     },
     "hero": {
       "eyebrow": "Aventura rítmica y simulador de tienda de discos",
       "title": "MR. RECORDS Wiki",
-      "description": "Dirige la tienda de discos de los sueños de George durante el día y sumérgete en surrealistas aventuras rítmicas por la noche, descubriendo música, recuerdos, clientes e historias.",
+      "description": "Dirige la tienda de discos soñada de George de día y sumérgete en aventuras rítmicas surrealistas de noche, descubriendo música, recuerdos, clientes e historias.",
       "stats": [
-        "Más de 40 niveles disponibles",
-        "11 idiomas compatibles",
-        "87,75 % de valoración de la demo",
-        "Demo en 2026"
+        "Número de niveles no documentado",
+        "Idiomas compatibles no documentados",
+        "Puntuación de reseñas de la demo no documentada",
+        "Fecha de lanzamiento por anunciar"
       ],
-      "primaryCta": "Juega la demo en Steam",
+      "primaryCta": "Ver en Steam",
       "secondaryCta": "Guía para principiantes",
-      "tertiaryCta": "Añadir a la lista de deseos para PS5 y Switch 2",
-      "videoLabel": "Material oficial"
+      "tertiaryCta": "Añadir a la lista de deseados en Steam",
+      "videoLabel": "Medios oficiales"
     },
     "updates": {
       "title": "Últimas novedades",
@@ -44,12 +44,12 @@
     },
     "start": {
       "eyebrow": "Empieza aquí",
-      "title": "Tu aventura en MR. RECORDS",
+      "title": "Tu viaje en MR. RECORDS",
       "cards": [
         {
           "number": "1",
           "title": "Guía para principiantes",
-          "description": "Aprende el bucle central de MR. RECORDS: abre la tienda de discos de día, descifra lo que busca cada cliente y adéntrate en tu primera aventura rítmica de noche."
+          "description": "Aprende el bucle central de MR. RECORDS: abre la tienda de discos de día, lee lo que busca cada cliente y adéntrate en tu primera aventura rítmica de noche."
         },
         {
           "number": "2",
@@ -58,13 +58,13 @@
         },
         {
           "number": "3",
-          "title": "Discos y coleccionismo",
-          "description": "Entiende cómo los discos desbloquean nuevos viajes rítmicos, qué aporta cada edición a la colección y cómo vender la copia adecuada mantiene creciendo la tienda."
+          "title": "Discos y colección",
+          "description": "Comprende cómo los discos desbloquean nuevos viajes rítmicos, qué aporta cada edición a la colección y cómo vender la copia adecuada mantiene la tienda en crecimiento."
         },
         {
           "number": "4",
           "title": "Guía de la demo",
-          "description": "Descubre qué incluye la demo gratuita de MR. RECORDS en Steam, cuánto se tarda en terminar y qué sistemas pasan a la versión completa."
+          "description": "Descubre qué incluye la demo de MR. RECORDS en Steam y cómo anticipa el lanzamiento completo."
         }
       ]
     },
@@ -73,33 +73,33 @@
       "title": "Tendencias ahora",
       "quickLinks": [
         "Guía para principiantes",
-        "Mecánicas rítmicas",
+        "Mecánicas de ritmo",
         "Tienda de discos",
         "Fecha de lanzamiento"
       ],
       "cards": [
         {
-          "badge": "Principiante",
+          "badge": "Principiantes",
           "title": "Guía para principiantes",
-          "description": "Todo lo que necesitas para tu primer día tras el mostrador y tu primer escenario rítmico.",
+          "description": "Todo lo que necesitas para tu primer día detrás del mostrador y tu primer escenario rítmico.",
           "href": "/guide/mr-records-beginner-guide"
         },
         {
           "badge": "Popular",
           "title": "Guía de juego",
-          "description": "El bucle completo de tienda de día y ritmo de noche explicado paso a paso.",
+          "description": "El bucle completo de tienda de día, ritmo de noche explicado paso a paso.",
           "href": "/guide/mr-records-gameplay-guide"
         },
         {
           "badge": "Popular",
           "title": "Guía de la tienda de discos",
-          "description": "Cómo llevar la tienda de George, atender a los habituales y mantener las cajas surtidas.",
+          "description": "Cómo dirigir la tienda de George, atender a los habituales y mantener las cajas surtidas.",
           "href": "/mechanics/mr-records-record-shop"
         },
         {
           "badge": "Nuevo",
           "title": "Mecánicas del juego rítmico",
-          "description": "Ventanas de sincronización, tipos de notas, combos y calibración explicados.",
+          "description": "Ventanas de tiempo, tipos de notas y calibración explicados.",
           "href": "/mechanics/mr-records-rhythm-game"
         },
         {
@@ -117,7 +117,7 @@
         {
           "badge": "Actualizado",
           "title": "Guía de la demo",
-          "description": "Qué incluye la demo gratuita de Steam y cómo anticipa el juego completo.",
+          "description": "Qué incluye la demo de Steam y cómo anticipa el juego completo.",
           "href": "/guide/mr-records-demo-guide"
         },
         {
@@ -129,7 +129,7 @@
         {
           "badge": "Popular",
           "title": "Guía de la versión de PC",
-          "description": "Detalles de Steam, Epic Games Store y Steam Deck para jugadores de PC.",
+          "description": "Detalles de Steam para jugadores de PC.",
           "href": "/platforms/mr-records-pc"
         }
       ]
@@ -137,8 +137,8 @@
     "aboutGame": {
       "title": "¿Qué es MR. RECORDS?",
       "paragraphs": [
-        "MR. RECORDS es un juego de aventura rítmica y gestión de una tienda de discos del desarrollador Glee-Cheese Studio y la distribuidora Wired Productions. Controlas a George, que lleva una tienda de discos de día y de noche se adentra en surrealistas escenarios de plataformas impulsados por la música, donde cada disco que vendes o coleccionas abre la puerta a otro recuerdo.",
-        "El juego combina la acogedora gestión de la tienda con carreras, saltos, deslizamientos y esquivas al ritmo de la música en más de 40 niveles hechos a mano. Junto a George están su perro Buzz y un elenco de clientes habituales cuyas historias, fotografías y notas se van revelando a medida que construyes la colección, con una banda sonora original que une la tienda y el escenario."
+        "MR. RECORDS es una aventura rítmica del desarrollador Glee-Cheese Studio, publicada por Wired Productions y Gamersky Games. Juegas como George, un viejo soñador que dirige la tienda de discos que siempre quiso, y cada vinilo lo transporta a un mundo de recuerdos donde salta, se desliza y se mueve por paisajes psicodélicos al ritmo de la música, ayudado por su perro Buzz.",
+        "Junto a George está su perro Buzz y un colorido elenco de clientes e historias que se despliegan mientras construyes la colección, con una banda sonora original que une la tienda y el escenario."
       ],
       "stats": [
         {
@@ -155,31 +155,31 @@
         },
         {
           "label": "Niveles",
-          "value": "Más de 40"
+          "value": "No documentado"
         },
         {
           "label": "Idiomas",
-          "value": "11"
+          "value": "No documentado"
         },
         {
           "label": "Puntuación de la demo",
-          "value": "87,75 %"
+          "value": "No documentado"
         },
         {
           "label": "Plataformas",
-          "value": "4"
+          "value": "PC (Steam)"
         }
       ],
       "cta": "Explorar todas las guías"
     },
     "explore": {
-      "title": "Explora la wiki de MR. RECORDS",
-      "description": "Todos los sistemas de MR. RECORDS en un solo lugar, desde tu primer día tras el mostrador hasta los escenarios rítmicos, los discos, los personajes, la historia, la demo y las plataformas.",
+      "title": "Explora MR. RECORDS Wiki",
+      "description": "Todos los sistemas de MR. RECORDS en un solo lugar, desde tu primer día detrás del mostrador hasta los escenarios rítmicos, discos, personajes, historia, demo y plataformas.",
       "modules": [
         {
           "order": 1,
           "name": "Guía para principiantes de MR. RECORDS",
-          "description": "Explica el bucle de juego central para jugadores nuevos, incluida la gestión de la tienda de discos, el aprendizaje de las preferencias de los clientes, el desbloqueo de discos y la entrada en los viajes rítmicos. Este módulo debe ofrecer una ruta de inicio clara sin depender de conocimientos avanzados de progresión.",
+          "description": "Explica el bucle de juego central para nuevos jugadores, incluyendo dirigir la tienda de discos, aprender las preferencias de los clientes, desbloquear discos y entrar en los viajes rítmicos. Este módulo debe proporcionar un camino inicial claro sin depender de conocimientos avanzados de progresión.",
           "href": "/guide/mr-records-beginner-guide",
           "displayType": "step-by-step",
           "highlights": [
@@ -189,11 +189,11 @@
             },
             {
               "label": "2",
-              "detail": "Lee cada petición y recomienda un disco que encaje con el ambiente."
+              "detail": "Lee cada solicitud y recomienda un disco que encaje con el estado de ánimo."
             },
             {
               "label": "3",
-              "detail": "Pon la aguja en un disco para iniciar un viaje rítmico."
+              "detail": "Coloca la aguja en un disco para comenzar un viaje rítmico."
             },
             {
               "label": "4",
@@ -205,32 +205,32 @@
             },
             {
               "label": "6",
-              "detail": "Reinvierte tus ganancias y repite el bucle con discos nuevos."
+              "detail": "Reinvierte tus ganancias y repite el bucle con nuevos discos."
             }
           ]
         },
         {
           "order": 2,
           "name": "Guía de juego de MR. RECORDS",
-          "description": "Cubre las dos caras principales de MR. RECORDS: gestionar la tienda de discos durante el día y completar escenarios de plataformas impulsados por la música por la noche. Incluye movimiento, acciones rítmicas, interacciones con clientes, recomendaciones de discos y progresión.",
+          "description": "Cubre los dos lados principales de MR. RECORDS: gestionar la tienda de discos durante el día y completar escenarios de plataformas impulsados por la música por la noche. Incluye movimiento, acciones rítmicas, interacciones con clientes, recomendaciones de discos y progresión.",
           "href": "/guide/mr-records-gameplay-guide",
           "displayType": "card-list",
           "highlights": [
             {
               "label": "Día de tienda",
-              "detail": "Atiende a los clientes y gestiona el stock mientras la tienda está abierta."
+              "detail": "Atiende a los clientes y gestiona el stock mientras la tienda de discos está abierta."
             },
             {
               "label": "Ritmo",
-              "detail": "Entra en escenarios musicales que se desarrollan tras el cierre."
+              "detail": "Entra en escenarios impulsados por la música que se desarrollan después del horario de cierre."
             },
             {
               "label": "Movimiento",
-              "detail": "Corre, salta, deslízate y esquiva por surrealistas niveles."
+              "detail": "Corre, salta, deslízate y esquiva a través de diseños de niveles surrealistas."
             },
             {
               "label": "Clientes",
-              "detail": "Aprende los gustos de los habituales para recomendar mejores discos."
+              "detail": "Aprende los gustos de los habituales para hacer mejores recomendaciones de discos."
             },
             {
               "label": "Discos",
@@ -238,65 +238,65 @@
             },
             {
               "label": "Progreso",
-              "detail": "Las ganancias y los descubrimientos repercuten en la tienda y la historia."
+              "detail": "Las ganancias y los descubrimientos retroalimentan la tienda y la historia."
             }
           ]
         },
         {
           "order": 3,
           "name": "Guía de discos de MR. RECORDS",
-          "description": "Organiza la información sobre los discos que los jugadores descubren, desbloquean, venden y reproducen. El módulo puede explicar cómo los discos conectan el sistema de gestión de la tienda con las aventuras rítmicas jugables y la historia de George.",
+          "description": "Organiza información sobre los discos que los jugadores descubren, desbloquean, venden y reproducen. El módulo puede explicar cómo los discos conectan el sistema de gestión de la tienda con las aventuras rítmicas jugables y la historia de George.",
           "href": "/mechanics/mr-records-record-collecting",
           "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "S",
-              "detail": "Discos de historia que desbloquean grandes viajes rítmicos y recuerdos clave."
+              "label": "Historia",
+              "detail": "Discos que desbloquean viajes rítmicos importantes y recuerdos clave."
             },
             {
-              "label": "A",
-              "detail": "Ediciones raras que se venden caras y amplían el catálogo de la tienda."
+              "label": "Raro",
+              "detail": "Ediciones que amplían el catálogo de la tienda y atraen a los coleccionistas."
             },
             {
-              "label": "B",
-              "detail": "Stock sólido de cada día que mantiene a los clientes habituales volviendo."
+              "label": "Cotidiano",
+              "detail": "Stock común que hace que los clientes habituales vuelvan."
             },
             {
-              "label": "C",
-              "detail": "Duplicados comunes que conviene cambiar o retirar de las cajas."
+              "label": "Duplicados",
+              "detail": "Copias repetidas que vale la pena cambiar o retirar de las cajas."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Guía rítmica de MR. RECORDS",
-          "description": "Céntrate en los escenarios de aventura rítmica donde los jugadores corren, saltan, se deslizan, esquivan y se mueven con la música por paisajes surrealistas. Incluye las distintas variaciones de juego, como batallas rítmicas, secuencias de persecución, cambios en el entorno y minijuegos.",
+          "name": "Guía de ritmo de MR. RECORDS",
+          "description": "Céntrate en los escenarios de aventura rítmica donde los jugadores corren, saltan, se deslizan, esquivan y se mueven con la música a través de paisajes surrealistas. Incluye las diferentes variaciones de juego como batallas rítmicas, secuencias de persecución, cambios ambientales y minijuegos.",
           "href": "/mechanics/mr-records-rhythm-game",
           "displayType": "card-list",
           "highlights": [
             {
               "label": "Toque",
-              "detail": "Las pulsaciones individuales al ritmo son la base de cada partitura."
+              "detail": "Las pulsaciones individuales al ritmo forman la columna vertebral de cada partitura."
             },
             {
               "label": "Mantener",
-              "detail": "Mantén las notas durante toda su duración para no romper el combo."
+              "detail": "Mantén las notas durante toda su duración para mantener vivo el combo."
             },
             {
               "label": "Deslizar",
-              "detail": "Los deslizamientos direccionales te llevan por secciones centradas en el movimiento."
+              "detail": "Los deslizamientos direccionales te llevan a través de secciones centradas en el movimiento."
             },
             {
               "label": "Acorde",
-              "detail": "Pulsa notas agrupadas a la vez en lugar de pasarlas de una en una."
+              "detail": "Golpea notas agrupadas juntas en lugar de recorrerlas."
             },
             {
-              "label": "Sincronía",
-              "detail": "Las ventanas de sincronización más ajustadas dan mejores valoraciones y más puntos."
+              "label": "Tiempo",
+              "detail": "Las ventanas de tiempo más ajustadas otorgan mejores juicios y puntuaciones más altas."
             },
             {
               "label": "Combo",
-              "detail": "Las rachas limpias multiplican tu puntuación hasta que un solo fallo las rompe."
+              "detail": "Las rachas limpias multiplican tu puntuación hasta que un solo fallo la rompe."
             }
           ]
         },
@@ -313,19 +313,19 @@
             },
             {
               "label": "Buzz",
-              "detail": "El fiel perro de George y su compañero constante en la tienda."
+              "detail": "El fiel perro de George y compañero constante en la tienda."
             },
             {
               "label": "Clientes",
-              "detail": "Habituales cuyos gustos y peticiones dan forma a tus días."
+              "detail": "Habituales cuyos gustos y solicitudes dan forma a tus días."
             },
             {
               "label": "Historias",
-              "detail": "Las conversaciones revelan las vidas que hay detrás de cada petición."
+              "detail": "Las conversaciones revelan las vidas detrás de cada solicitud de cliente."
             },
             {
               "label": "Fotos",
-              "detail": "Las instantáneas que recoges por el camino registran momentos del pasado."
+              "detail": "Las instantáneas recopiladas en el camino registran momentos del pasado."
             },
             {
               "label": "Notas",
@@ -335,14 +335,14 @@
         },
         {
           "order": 6,
-          "name": "Guía de la historia de MR. RECORDS",
-          "description": "Cubre la estructura narrativa en torno al sueño de George de tener una tienda de discos y los recuerdos que la música devuelve a la vida. Destaca cómo los discos revelan momentos de alegría, arrepentimiento, amor perdido y reflexión personal.",
+          "name": "Guía de historia de MR. RECORDS",
+          "description": "Cubre la estructura narrativa en torno al sueño de George de tener una tienda de discos y los recuerdos que cobran vida a través de la música. Destaca cómo los discos revelan momentos de alegría, arrepentimiento, amor perdido y reflexión personal.",
           "href": "/characters/mr-records-george",
           "displayType": "card-list",
           "highlights": [
             {
               "label": "Sueños",
-              "detail": "El deseo de George de llevar una tienda de discos pone en marcha toda la historia."
+              "detail": "El deseo de George de dirigir una tienda de discos pone toda la historia en marcha."
             },
             {
               "label": "Recuerdos",
@@ -362,32 +362,32 @@
             },
             {
               "label": "Reflexión",
-              "detail": "Cada viaje termina con George mirando atrás y preguntándose qué significa la música."
+              "detail": "Cada viaje termina con George mirando atrás sobre lo que significa la música."
             }
           ]
         },
         {
           "order": 7,
           "name": "Guía de la demo de MR. RECORDS",
-          "description": "Ofrece información sobre la demo pública de Steam, lo que los jugadores pueden experimentar en ella y cómo anticipa el juego de tienda y ritmo de la versión completa. Esta sección también puede resumir las principales características disponibles en la demo.",
+          "description": "Proporciona información sobre la demo de Steam, lo que los jugadores pueden experimentar en ella y cómo anticipa el juego completo con la tienda y el juego rítmico. Esta sección también puede resumir las características principales disponibles en la demo.",
           "href": "/guide/mr-records-demo-guide",
           "displayType": "code-cards",
           "highlights": [
             {
               "label": "Steam",
-              "detail": "La demo gratuita ya está disponible en Steam para PC."
+              "detail": "La demo está disponible en Steam para PC."
             },
             {
-              "label": "Sep 2026",
-              "detail": "La demo se lanzó el 22 de septiembre de 2026, antes del lanzamiento."
+              "label": "Lanzamiento",
+              "detail": "La fecha de lanzamiento de la demo no está documentada."
             },
             {
               "label": "Tienda",
-              "detail": "Juega el bucle completo de tienda de día y noche en miniatura."
+              "detail": "Juega una versión del bucle de tienda de día y noche."
             },
             {
               "label": "Ritmo",
-              "detail": "Prueba escenarios rítmicos con movimiento, esquivas y música."
+              "detail": "Prueba escenarios rítmicos con movimiento, esquiva y música."
             },
             {
               "label": "Progreso",
@@ -398,25 +398,25 @@
         {
           "order": 8,
           "name": "Guía de plataformas de MR. RECORDS",
-          "description": "Resume las plataformas anunciadas y la información de lanzamiento de MR. RECORDS, incluidas PC, PlayStation 5, Xbox Series X|S y Nintendo Switch 2. Mantén la información centrada en la disponibilidad confirmada de plataformas y los anuncios oficiales de lanzamiento.",
+          "description": "Resume las plataformas anunciadas y la información de lanzamiento de MR. RECORDS. Mantén la información centrada en la disponibilidad confirmada de plataformas y los anuncios oficiales de lanzamiento.",
           "href": "/platforms/mr-records-pc",
           "displayType": "code-cards",
           "highlights": [
             {
               "label": "PC",
-              "detail": "Lanzamiento en PC a través de Steam y Epic Games Store."
+              "detail": "Disponible en PC a través de Steam."
             },
             {
               "label": "PS5",
-              "detail": "Se ha anunciado una versión para PlayStation 5."
+              "detail": "Disponibilidad de plataforma no documentada."
             },
             {
               "label": "Xbox",
-              "detail": "Llegará a Xbox Series X|S junto a las demás plataformas."
+              "detail": "Disponibilidad de plataforma no documentada."
             },
             {
               "label": "Switch 2",
-              "detail": "Confirmado para Nintendo Switch 2 con el mismo juego rítmico."
+              "detail": "Disponibilidad de plataforma no documentada."
             }
           ]
         }
@@ -428,56 +428,56 @@
       "items": [
         {
           "question": "¿Qué es MR. RECORDS?",
-          "answer": "MR. RECORDS es un juego de aventura rítmica y gestión de una tienda de discos de Glee-Cheese Studio y Wired Productions. Llevas la tienda de discos de George de día y juegas escenarios de plataformas impulsados por la música de noche."
+          "answer": "MR. RECORDS es una aventura rítmica de Glee-Cheese Studio y Wired Productions. Diriges la tienda de discos de George de día y juegas escenarios de plataformas impulsados por la música de noche."
         },
         {
           "question": "¿En qué plataformas está MR. RECORDS?",
-          "answer": "MR. RECORDS está anunciado para PC, PlayStation 5, Xbox Series X|S y Nintendo Switch 2, con una demo gratuita ya disponible en Steam."
+          "answer": "MR. RECORDS está listado en Steam para PC. La disponibilidad en otras plataformas no está documentada."
         },
         {
           "question": "¿Hay una demo gratuita de MR. RECORDS?",
-          "answer": "Sí. La demo de MR. RECORDS se lanzó en Steam el 22 de septiembre de 2026 y te permite probar tanto la tienda de discos como los escenarios rítmicos antes del lanzamiento."
+          "answer": "Existe una demo de MR. RECORDS en Steam."
         },
         {
           "question": "¿Cuántos niveles tiene MR. RECORDS?",
-          "answer": "MR. RECORDS incluye más de 40 niveles hechos a mano que mezclan carreras, saltos, deslizamientos y acción rítmica."
+          "answer": "El número de niveles no está documentado."
         },
         {
           "question": "¿Qué idiomas admite MR. RECORDS?",
-          "answer": "MR. RECORDS admite 11 idiomas, entre ellos inglés, japonés, español y coreano."
+          "answer": "La compatibilidad de idiomas no está documentada."
         }
       ]
     },
     "finalCta": {
       "title": "¿Listo para dominar MR. RECORDS?",
-      "description": "Desde tu primer día al frente de la tienda de discos hasta dominar surrealistas batallas rítmicas, nuestra wiki comunitaria te acompaña con guías gratuitas y actualizadas.",
+      "description": "Desde dirigir tu primer día en la tienda de discos hasta dominar batallas rítmicas surrealistas, nuestra wiki comunitaria te cubre con guías gratuitas y actualizadas.",
       "primary": "Leer la guía para principiantes",
-      "secondary": "Jugar la demo en Steam"
+      "secondary": "Ver en Steam"
     }
   },
   "guide": {
     "overviewTitle": "Guías para principiantes de MR. RECORDS",
-    "overviewDescription": "Empieza con buen pie con las guías para principiantes de MR. RECORDS: primeras horas, conceptos básicos de la tienda de discos, escenarios rítmicos, guías paso a paso y consejos para tus primeras partidas."
+    "overviewDescription": "Empieza con fuerza con las guías para principiantes de MR. RECORDS que cubren las primeras horas, los conceptos básicos de la tienda de discos, los escenarios rítmicos, guías paso a paso y consejos para tus primeras partidas."
   },
   "mechanics": {
     "overviewTitle": "Mecánicas de juego de MR. RECORDS",
-    "overviewDescription": "Aprende cómo funciona MR. RECORDS, desde las batallas rítmicas y la gestión de la tienda de discos hasta el coleccionismo de vinilos, el sistema de imaginación y el juego impulsado por la música."
+    "overviewDescription": "Aprende cómo funciona MR. RECORDS, desde batallas rítmicas y gestión de la tienda de discos hasta coleccionar vinilos, el sistema de imaginación y el juego impulsado por la música."
   },
   "features": {
     "overviewTitle": "Características y tráilers de MR. RECORDS",
-    "overviewDescription": "Explora en un solo lugar las demos, las revelaciones de juego, los tráilers de anuncio y las presentaciones de Day of the Devs de MR. RECORDS."
+    "overviewDescription": "Explora demos de MR. RECORDS, revelaciones de juego, tráilers de anuncio y presentaciones de Day of the Devs en un solo lugar."
   },
   "characters": {
     "overviewTitle": "Personajes de MR. RECORDS",
-    "overviewDescription": "Conoce al elenco de MR. RECORDS, incluidos George, su perro, Sausage Blues y las personalidades que dan vida a la tienda de discos."
+    "overviewDescription": "Conoce al elenco de MR. RECORDS, incluyendo a George, su perro Buzz y las personalidades que dan vida a la tienda de discos."
   },
   "platforms": {
     "overviewTitle": "Plataformas de MR. RECORDS",
-    "overviewDescription": "Descubre dónde jugar MR. RECORDS en PC, PS5, Xbox, Nintendo Switch, Switch 2 y Steam Deck."
+    "overviewDescription": "Descubre dónde jugar MR. RECORDS en PC y otras plataformas según lo anunciado."
   },
   "release": {
     "overviewTitle": "Lanzamiento y versiones de MR. RECORDS",
-    "overviewDescription": "Sigue las fechas de lanzamiento, las páginas de tienda y los detalles de versión de MR. RECORDS para Steam, GOG, PS5 y Nintendo Switch."
+    "overviewDescription": "Sigue las fechas de lanzamiento de MR. RECORDS, las páginas de las tiendas y los detalles de las versiones para Steam y otras plataformas."
   },
   "shared": {
     "wikiNavigation": "Navegación de la wiki",
@@ -486,31 +486,31 @@
     "viewAllCodes": "Ver todos los códigos",
     "playOnRoblox": "Jugar en Roblox",
     "inThisSection": "En esta sección",
-    "tableOfContents": "Índice",
+    "tableOfContents": "Tabla de contenidos",
     "nextSteps": "Próximos pasos",
     "needHelp": "¿Necesitas ayuda?",
-    "relatedReading": "Lecturas relacionadas",
+    "relatedReading": "Lectura relacionada",
     "relatedGuides": "Guías relacionadas",
     "readMore": "Leer más",
-    "officialMedia": "Material oficial",
+    "officialMedia": "Medios oficiales",
     "home": "Inicio",
     "noGuidesAvailable": "Aún no hay guías disponibles. ¡Vuelve pronto!"
   },
   "footer": {
     "aboutTitle": "MR. RECORDS Wiki",
-    "about": "MR. RECORDS Wiki es un centro de guías independiente creado por fans que cubre niveles, música, gestión de la tienda de discos, personajes y conocimientos esenciales del juego, tanto para jugadores nuevos como veteranos.",
+    "about": "MR. RECORDS Wiki es un centro de guías independiente creado por fans que cubre niveles, música, gestión de la tienda de discos, personajes y conocimientos esenciales del juego tanto para jugadores nuevos como veteranos.",
     "quickLinks": "Enlaces rápidos",
     "guides": "Guías",
     "legal": "Legal",
-    "copyright": "2026 MR. RECORDS Wiki. Sin afiliación con Glee-Cheese Studio ni Wired Productions.",
-    "description": "Aventura rítmica y simulador de tienda de discos. Más de 40 niveles, música original, PC, PS5, Xbox Series X|S y Switch 2.",
-    "playGame": "Juega a MR. RECORDS en Steam",
+    "copyright": "2026 MR. RECORDS Wiki. No afiliado con Glee-Cheese Studio ni Wired Productions.",
+    "description": "Aventura rítmica y simulador de tienda de discos. Música original, PC (Steam) y más por anunciar.",
+    "playGame": "Ver MR. RECORDS en Steam",
     "officialDiscord": "Discord oficial",
     "officialYoutube": "YouTube oficial",
     "vvBuilder": "Sitio web oficial",
     "beginnerGuide": "Guía para principiantes",
     "privacyPolicy": "Política de privacidad",
-    "termsOfService": "Términos del servicio",
+    "termsOfService": "Términos de servicio",
     "mechanicsGuide": "Mecánicas",
     "charactersGuide": "Personajes",
     "platformsGuide": "Plataformas"

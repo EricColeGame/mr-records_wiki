@@ -27,14 +27,14 @@
       "title": "MR. RECORDS Wiki",
       "description": "Run George's dream record shop by day and dive into surreal rhythm adventures by night, discovering music, memories, customers, and stories.",
       "stats": [
-        "40+ Levels Available",
-        "11 Languages Supported",
-        "87.75% Demo Review Score",
-        "2026 Demo Release"
+        "Level count not documented",
+        "Language support not documented",
+        "Demo review score not documented",
+        "Release date to be announced"
       ],
-      "primaryCta": "Play the Demo on Steam",
+      "primaryCta": "View on Steam",
       "secondaryCta": "Beginner Guide",
-      "tertiaryCta": "Wishlist for PS5 & Switch 2",
+      "tertiaryCta": "Wishlist on Steam",
       "videoLabel": "Official media"
     },
     "updates": {
@@ -64,7 +64,7 @@
         {
           "number": "4",
           "title": "Demo Guide",
-          "description": "Find out what the free Steam demo of MR. RECORDS includes, how long it takes to finish, and which systems carry over to the full release."
+          "description": "Find out what the Steam demo of MR. RECORDS includes and how it previews the full release."
         }
       ]
     },
@@ -99,7 +99,7 @@
         {
           "badge": "New",
           "title": "Rhythm Game Mechanics",
-          "description": "Timing windows, note types, combos, and calibration explained.",
+          "description": "Timing windows, note types, and calibration explained.",
           "href": "/mechanics/mr-records-rhythm-game"
         },
         {
@@ -117,7 +117,7 @@
         {
           "badge": "Updated",
           "title": "Demo Guide",
-          "description": "What the free Steam demo includes and how it previews the full game.",
+          "description": "What the Steam demo includes and how it previews the full game.",
           "href": "/guide/mr-records-demo-guide"
         },
         {
@@ -129,7 +129,7 @@
         {
           "badge": "Popular",
           "title": "PC Version Guide",
-          "description": "Steam, Epic Games Store, and Steam Deck details for PC players.",
+          "description": "Steam details for PC players.",
           "href": "/platforms/mr-records-pc"
         }
       ]
@@ -137,8 +137,8 @@
     "aboutGame": {
       "title": "What is MR. RECORDS?",
       "paragraphs": [
-        "MR. RECORDS is a rhythm adventure and record shop management game from developer Glee-Cheese Studio and publisher Wired Productions. You play as George, who runs a record shop by day and steps into surreal, music-driven platforming stages by night, where every record you sell or collect opens the door to another memory.",
-        "The game pairs cozy shopkeeping with rhythm-based running, jumping, sliding, and dodging across more than 40 handcrafted levels. Alongside George is his dog Buzz and a cast of regular customers whose stories, photographs, and notes unfold as you build the collection, with an original soundtrack tying the shop and the stage together."
+        "MR. RECORDS is a rhythm adventure from developer Glee-Cheese Studio, published by Wired Productions and Gamersky Games. You play as George, an old dreamer who runs the record shop he always wanted, and each vinyl transports him into a world of memories where he jumps, slides and moves through psychedelic landscapes in time with the music, helped by his dog Buzz.",
+        "Alongside George is his dog Buzz and a colourful cast of customers and stories that unfold as you build the collection, with an original soundtrack tying the shop and the stage together."
       ],
       "stats": [
         {
@@ -155,19 +155,19 @@
         },
         {
           "label": "Levels",
-          "value": "40+"
+          "value": "Not documented"
         },
         {
           "label": "Languages",
-          "value": "11"
+          "value": "Not documented"
         },
         {
           "label": "Demo Score",
-          "value": "87.75%"
+          "value": "Not documented"
         },
         {
           "label": "Platforms",
-          "value": "4"
+          "value": "PC (Steam)"
         }
       ],
       "cta": "Explore All Guides"
@@ -250,20 +250,20 @@
           "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "S",
-              "detail": "Story records that unlock major rhythm journeys and key memories."
+              "label": "Story",
+              "detail": "Records that unlock major rhythm journeys and key memories."
             },
             {
-              "label": "A",
-              "detail": "Rare pressings that sell high and expand the shop's catalog."
+              "label": "Rare",
+              "detail": "Pressings that expand the shop's catalog and appeal to collectors."
             },
             {
-              "label": "B",
-              "detail": "Solid everyday stock that keeps regular customers coming back."
+              "label": "Everyday",
+              "detail": "Common stock that keeps regular customers coming back."
             },
             {
-              "label": "C",
-              "detail": "Common duplicates worth trading in or clearing from the crates."
+              "label": "Duplicates",
+              "detail": "Repeated copies worth trading in or clearing from the crates."
             }
           ]
         },
@@ -369,21 +369,21 @@
         {
           "order": 7,
           "name": "MR. RECORDS Demo Guide",
-          "description": "Provide information about the publicly available Steam demo, what players can experience in it, and how it previews the full game's shop and rhythm gameplay. This section can also summarize the major features available in the demo.",
+          "description": "Provide information about the Steam demo, what players can experience in it, and how it previews the full game's shop and rhythm gameplay. This section can also summarize the major features available in the demo.",
           "href": "/guide/mr-records-demo-guide",
           "displayType": "code-cards",
           "highlights": [
             {
               "label": "Steam",
-              "detail": "The free demo is available now on Steam for PC."
+              "detail": "The demo is available on Steam for PC."
             },
             {
-              "label": "Sep 2026",
-              "detail": "The demo launched on September 22, 2026, ahead of release."
+              "label": "Release",
+              "detail": "The demo release date is not documented."
             },
             {
               "label": "Shop",
-              "detail": "Play the full day-and-night shop loop in miniature."
+              "detail": "Play a version of the day-and-night shop loop."
             },
             {
               "label": "Rhythm",
@@ -398,25 +398,25 @@
         {
           "order": 8,
           "name": "MR. RECORDS Platforms Guide",
-          "description": "Summarize the announced platforms and release information for MR. RECORDS, including PC, PlayStation 5, Xbox Series X|S, and Nintendo Switch 2. Keep the information focused on confirmed platform availability and official release announcements.",
+          "description": "Summarize the announced platforms and release information for MR. RECORDS. Keep the information focused on confirmed platform availability and official release announcements.",
           "href": "/platforms/mr-records-pc",
           "displayType": "code-cards",
           "highlights": [
             {
               "label": "PC",
-              "detail": "Launching on PC through Steam and the Epic Games Store."
+              "detail": "Available on PC through Steam."
             },
             {
               "label": "PS5",
-              "detail": "A PlayStation 5 version is announced for release."
+              "detail": "Platform availability not documented."
             },
             {
               "label": "Xbox",
-              "detail": "Coming to Xbox Series X|S alongside the other platforms."
+              "detail": "Platform availability not documented."
             },
             {
               "label": "Switch 2",
-              "detail": "Confirmed for Nintendo Switch 2 with the same rhythm gameplay."
+              "detail": "Platform availability not documented."
             }
           ]
         }
@@ -428,23 +428,23 @@
       "items": [
         {
           "question": "What is MR. RECORDS?",
-          "answer": "MR. RECORDS is a rhythm adventure and record shop management game from Glee-Cheese Studio and Wired Productions. You run George's record shop by day and play music-driven platforming stages by night."
+          "answer": "MR. RECORDS is a rhythm adventure from Glee-Cheese Studio and Wired Productions. You run George's record shop by day and play music-driven platforming stages by night."
         },
         {
           "question": "What platforms is MR. RECORDS on?",
-          "answer": "MR. RECORDS is announced for PC, PlayStation 5, Xbox Series X|S, and Nintendo Switch 2, with a free Steam demo already available."
+          "answer": "MR. RECORDS is listed on Steam for PC. Other platform availability is not documented."
         },
         {
           "question": "Is there a free demo of MR. RECORDS?",
-          "answer": "Yes. The MR. RECORDS demo launched on Steam on September 22, 2026, and lets you try both the record shop and the rhythm stages before launch."
+          "answer": "A demo of MR. RECORDS exists on Steam."
         },
         {
           "question": "How many levels does MR. RECORDS have?",
-          "answer": "MR. RECORDS features more than 40 handcrafted levels that mix running, jumping, sliding, and rhythm-based action."
+          "answer": "The number of levels is not documented."
         },
         {
           "question": "What languages does MR. RECORDS support?",
-          "answer": "MR. RECORDS supports 11 languages, including English, Japanese, Spanish, and Korean."
+          "answer": "Language support is not documented."
         }
       ]
     },
@@ -452,7 +452,7 @@
       "title": "Ready to Master MR. RECORDS?",
       "description": "From running your first record shop day to mastering surreal rhythm battles, our community wiki has you covered with free, up-to-date guides.",
       "primary": "Read the Beginner Guide",
-      "secondary": "Play the Demo on Steam"
+      "secondary": "View on Steam"
     }
   },
   "guide": {
@@ -469,15 +469,15 @@
   },
   "characters": {
     "overviewTitle": "MR. RECORDS Characters",
-    "overviewDescription": "Meet the MR. RECORDS cast, including George, his dog, Sausage Blues, and the personalities who bring the record shop to life."
+    "overviewDescription": "Meet the MR. RECORDS cast, including George, his dog Buzz, and the personalities who bring the record shop to life."
   },
   "platforms": {
     "overviewTitle": "MR. RECORDS Platforms",
-    "overviewDescription": "Find out where to play MR. RECORDS across PC, PS5, Xbox, Nintendo Switch, Switch 2, and Steam Deck."
+    "overviewDescription": "Find out where to play MR. RECORDS across PC and other platforms as announced."
   },
   "release": {
     "overviewTitle": "MR. RECORDS Release & Versions",
-    "overviewDescription": "Track MR. RECORDS release dates, store pages, and version details for Steam, GOG, PS5, and Nintendo Switch."
+    "overviewDescription": "Track MR. RECORDS release dates, store pages, and version details for Steam and other platforms."
   },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
@@ -503,8 +503,8 @@
     "guides": "Guides",
     "legal": "Legal",
     "copyright": "2026 MR. RECORDS Wiki. Not affiliated with Glee-Cheese Studio or Wired Productions.",
-    "description": "Rhythm adventure & record shop simulator. 40+ levels, original music, PC, PS5, Xbox Series X|S & Switch 2.",
-    "playGame": "Play MR. RECORDS on Steam",
+    "description": "Rhythm adventure & record shop simulator. Original music, PC (Steam) and more to be announced.",
+    "playGame": "View MR. RECORDS on Steam",
     "officialDiscord": "Official Discord",
     "officialYoutube": "Official YouTube",
     "vvBuilder": "Official Website",
